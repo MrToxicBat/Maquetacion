@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.Caja1, .Caja7, .Caja8 {
+    width: 100%;
+    background-color: rgba(0, 0, 255, 0.658);
+}
+
+.Caja1 {
+    height: 50px;
+}
+
+.Caja2, .Caja3 {
+    display: inline-block;
+    width: 49.5%;
+    height: 400px;
+    vertical-align: top;
+    margin-top: 60px;
+}
+
+.Caja2 {
+    background-color: grey;
+    margin-left: 5px;
+}
+
+.Caja3 {
+    background-color: blue;
+}
+
+.Caja4, .Caja5 {
+    width: 96%;
+    height: 180px;
+    background-color: aqua;
+    margin: 13px 0;
+    margin-left: 14px;
+}
+
+.Caja7 {
+    height: 380px;
+    background-color: brown;
+    margin-top: 50px;
+}
+
+.Caja8 {
+    height: 90px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 255, 0.658);
+}
